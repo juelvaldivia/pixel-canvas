@@ -1,0 +1,23 @@
+{
+  "name": "sockets",
+  "version": "1.0.0",
+  "description": "En tu Terminal/Consola llega a este folder y escribe:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeldeval/pixel-canvas.git"
+  },
+  "author": "joeldeval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeldeval/pixel-canvas/issues"
+  },
+  "homepage": "https://github.com/joeldeval/pixel-canvas#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.0"
+  }
+}
