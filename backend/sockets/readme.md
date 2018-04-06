@@ -1,5 +1,4 @@
 # Creando Aplicaciones en Tiempo Real usando JS Isomórfico :eyes:
-### Workshop Talent-Land 2018
 
 ## Preparando Backend-End
 
