@@ -1,5 +1,4 @@
 # Creando Aplicaciones en Tiempo Real usando JS Isomórfico :eyes:
-### Workshop Talent-Land 2018
 
 ## Que es eso de Isomórfico? 
 > Pues nada, basicamente es una palabra elegante para decir que TODO está hecho con el mismo lenguaje, en este caso JavaScript :heart:
