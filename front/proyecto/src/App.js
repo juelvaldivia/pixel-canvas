@@ -12,11 +12,15 @@ class App extends Component {
 
   }
 
+  miguelMouse = (event) =>{
+    console.log("sepa")
+  }
+
   // pinta el html en el navegador
   render() {
     return (
       // elemento canvas
-      <canvas ref="canvas" className="canvas"/>      
+      <canvas ref="canvas" className="canvas" onClick={(evt) => this.miguelMouse(evt)}/>      
     );
   }
 }
